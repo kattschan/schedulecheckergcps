@@ -51,8 +51,8 @@ onMount(async () => {
 })
 </script>
 
-<h1>GCPS Schedule Checker</h1>
-<p>Made with ❤ by Kat</p>
+<h1>UNOFFICIAL GCPS Schedule Checker</h1>
+<p>Made with ❤ by Kat(kattschan on GitHub)</p>
 <form method="POST">
 
 <div class="field label border">

@@ -73,6 +73,7 @@ onMount(async () => {
     <h5>Information</h5>
     <div>While we try to fetch your class data, here's some information:</div>
     <ul class="padding">
+        <li>The latest information suggests schedules will be available for all by Wednesday 26 July</li>
         <li>All data is sent directly to the county and back to your browser, so we are not responsible for what data is returned.</li>
         <li>Some schools are still showing Gradebook disabled and errors on schedules. Please try again if this applies to you.</li>
         <li>Exciting things are coming related to StudentVue in 2023. <a href="https://discord.gg/AQkh5DPU">Click here</a> to stay up to date</li>
